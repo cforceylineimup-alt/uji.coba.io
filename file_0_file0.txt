@@ -1,0 +1,18 @@
+> ├─ client/
+> │  ├─ src/
+> │  │  ├─ assets/           # textures, sprites, ui assets
+> │  │  ├─ scenes/            # Phaser scenes
+> │  │  ├─ components/       # UI components (React or plain JS)
+> │  │  ├─ sockets/          # WebSocket glue
+> │  │  └─ index.js          # app entry
+> │  ├─ public/
+> │  │  ├─ index.html
+> │  │  └─ manifest.json
+> │  ├─ package.json
+> │  └─ webpack.config.js
+> ├─ server/
+> │  ├─ server.js
+> │  ├─ package.json
+> │  └─ rooms.js
+> └─ README.md
+> 
